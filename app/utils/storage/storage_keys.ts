@@ -1,0 +1,2 @@
+export const USER_FAVORITE = "USER_FAVORITE";
+export const FAVORITE_ARRAY = "FAVORITE_ARRAY";

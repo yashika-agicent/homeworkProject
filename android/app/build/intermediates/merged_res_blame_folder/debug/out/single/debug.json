@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-mdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxhdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yashika/Desktop/rn/homeworkProject/android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/yashika/Desktop/rn/homeworkProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
